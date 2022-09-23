@@ -1,7 +1,7 @@
 [package]
 name = "Movemate"
-version = "1.2.0"
-authors = ["David Lucid <david@pentagon.xyz>"]
+version = "1.2.1"
+authors = ["David Lucid <david@pentagon.xyz>", "origin byte team"]
 
 [addresses]
 std = "0x1"
